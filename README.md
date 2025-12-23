@@ -15,7 +15,7 @@ The focus of the project was to understand and implement core gameplay systems r
 
 ## Download
 Playable Windows build:  
-👉 **[Google Drive link here]**
+👉 **[https://drive.google.com/drive/folders/1U07tHKnnUFdNsaZdl0JHNUUOkYu0ARtp?usp=sharing]**
 
 ## Notes
 This project was developed for learning and practice purposes during club training and represents an early-stage gameplay prototype.
